@@ -1,0 +1,51 @@
+.signup-modal .modal-content {
+    background-color: #333;
+    color: white;
+  }
+  
+  .signup-modal .modal-header {
+    border-bottom: none;
+  }
+  
+  .signup-modal .modal-title {
+    color: white;
+  }
+  
+  .signup-modal .close {
+    color: white;
+  }
+  
+  .signup-modal .form-control {
+    background-color: #444;
+    border: none;
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  .signup-modal .form-control::placeholder {
+    color: #777;
+  }
+  
+  .signup-modal .btn-success {
+    background-color: #28a745;
+    border: none;
+  }
+  
+  .signup-modal .btn-success:hover {
+    background-color: #218838;
+  }
+  
+  .signup-modal .btn-link {
+    color: #17a2b8;
+    text-decoration: none;
+    padding: 0;
+    margin-left: 5px;
+  }
+  
+  .signup-modal .btn-link:hover {
+    text-decoration: underline;
+  }
+  
+  .signup-modal p {
+    margin-bottom: 0;
+  }

@@ -1,0 +1,40 @@
+.add-property-container {
+	max-width: 600px;
+	margin: auto;
+}
+
+.add-property-card {
+	border: none;
+}
+
+.add-property-card .card-header {
+	border-bottom: none;
+}
+
+.add-property-card .form-label {
+	font-weight: 600;
+}
+
+.add-property-card .form-control:focus {
+	box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.add-property-card .btn-primary {
+	background-color: #007bff;
+	border-color: #007bff;
+}
+
+.add-property-card .btn-primary:hover {
+	background-color: #0056b3;
+	border-color: #0056b3;
+}
+
+.add-property-card .btn-secondary {
+	background-color: #6c757d;
+	border-color: #6c757d;
+}
+
+.add-property-card .btn-secondary:hover {
+	background-color: #5a6268;
+	border-color: #545b62;
+}
